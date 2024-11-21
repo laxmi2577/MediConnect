@@ -1,8 +1,6 @@
-                         MEDI CONNECT 
+# MEDI CONNECT 
 
- ABSTRACT 
-
-E-Healthcare and Encrypted PHRs 
+• E-healthcare and Encrypted PHRs 
 
 • E-healthcare enables high-quality medical services through encrypted personal healthcare data (PHRs). 
 
@@ -14,6 +12,6 @@ E-Healthcare and Encrypted PHRs
 
 • Only authorized doctors or research institutions have access to PHRs. 
 
-• Doctor-in-charge can delegate medical research and utilization via cloud server. 
+• The Doctor-in-charge can delegate medical research and utilization via a cloud server. 
 
 • Security and efficiency of the scheme are formalized and evaluated. 
