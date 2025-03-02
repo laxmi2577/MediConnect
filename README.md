@@ -1,6 +1,6 @@
 # MediConnect
 
-MediConnect is an innovative e-healthcare platform designed to provide high-quality medical services through encrypted Personal Health Records (PHRs). By ensuring patient privacy and confidentiality, MediConnect facilitates secure storage and access to healthcare data while formalizing and evaluating the security and efficiency of the system.
+MediConnect is an innovative e-healthcare platform that provides high-quality medical services through encrypted Personal Health Records (PHRs). By ensuring patient privacy and confidentiality, MediConnect facilitates secure storage and access to healthcare data while formalizing and evaluating the security and efficiency of the system.
 
 ## Key Highlights
 
@@ -13,7 +13,7 @@ MediConnect is an innovative e-healthcare platform designed to provide high-qual
   - Only authorized doctors or research institutions can access PHRs.
 
 - **Proxy Searchable Re-Encryption**:
-  - Proposed a strategy to allow remote monitoring of patient health records while maintaining data security.
+  - Proposed a strategy to monitor patient health records remotely while maintaining data security.
   - The attending doctor can delegate access for medical research and utilization via the cloud server.
 
 - **Security and Efficiency**:
@@ -67,5 +67,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any inquiries or support, please contact **LAXMIRANJAN SAHU** at **laxmiranjan444@gmail.com**.
 ```
-
-This README now includes your key points under a dedicated section and integrates them into the overall structure. Let me know if you need further refinements! 😊
